@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/alex_/Desktop/AudioTest/MyProject/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset",
+				"C:/Users/alex_/Desktop/AudioTest/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/alex_/Desktop/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/alex_/Desktop/MyProject/Content/FMOD/PrivateIntegrationData/BankLookup.uasset",
 				"C:/Users/alex_/Desktop/MyProject/Content/FMOD/Events/Shoot.uasset",
